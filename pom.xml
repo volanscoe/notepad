@@ -35,8 +35,8 @@
 	</scm-->
 
 	<scm>
-		<connection>scm:git:https://volanscoe:Chip0tl3@github.com/volanscoe/notepad.git</connection>
-		<developerConnection>scm:git:https://volanscoe:Chip0tl3@github.com/volanscoe/notepad.git</developerConnection>
+		<connection>scm:git:https://volanscoe:zpKlt98sap@github.com/volanscoe/notepad.git</connection>
+		<developerConnection>scm:git:https://volanscoe:zpKlt98sap@github.com/volanscoe/notepad.git</developerConnection>
 		<url>scm:git:https://github.com/volanscoe/notepad.git</url>
 		<tag>HEAD</tag>
 	</scm>
