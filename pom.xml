@@ -28,9 +28,9 @@
 	</properties>
 
 	<scm>
-		<connection>scm:git:git@github.com:volansamerica/notepad.git</connection>
-		<developerConnection>scm:git:git@github.com:volansamerica/notepad.git</developerConnection>
-		<url>scm:git:git@github.com:volansamerica/notepad.git</url>
+		<connection>scm:git:git@github.com:volanscoe/notepad.git</connection>
+		<developerConnection>scm:git:git@github.com:volanscoe/notepad.git</developerConnection>
+		<url>scm:git:git@github.com:volanscoe/notepad.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
