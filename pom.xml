@@ -27,10 +27,17 @@
 		<selenium.browser>firefox</selenium.browser>
 	</properties>
 
-	<scm>
+	<!--scm>
 		<connection>scm:git:git@github.com:volanscoe/notepad.git</connection>
 		<developerConnection>scm:git:git@github.com:volanscoe/notepad.git</developerConnection>
 		<url>scm:git:git@github.com:volanscoe/notepad.git</url>
+		<tag>HEAD</tag>
+	</scm-->
+
+	<scm>
+		<connection>scm:git:https://github.com/volanscoe/notepad.git</connection>
+		<developerConnection>scm:git:https://github.com/volanscoe/notepad.git</developerConnection>
+		<url>scm:git:https://github.com/volanscoe/notepad.git</url>
 		<tag>HEAD</tag>
 	</scm>
 
